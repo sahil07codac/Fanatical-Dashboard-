@@ -10,12 +10,12 @@ KPI-
 
 
 KEY:
-# Total Revenue By Regions
-# Total Revenue & avg revenue By country 
-# Revenue By store
-# revenue by quater
-# total revenue by sales persons
-# total revenue by product & store 
-# Total Revenue & avg revenue By  month
+-- Total Revenue By Regions
+-- Total Revenue & avg revenue By country 
+-- Revenue By store
+-- revenue by quater
+-- total revenue by sales persons
+-- total revenue by product & store 
+-- Total Revenue & avg revenue By  month
 
 
