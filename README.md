@@ -1,5 +1,8 @@
-# Fanatical-Dashboard-
+# Finanical-Dashboard-
 ![image](https://github.com/sahil07codac/Fanatical-Dashboard-/assets/141804728/c1ee51ec-34bf-440a-bb7f-f21c7473c034)
+
+objective : A xyz company wants to analysis the finacial data by region,store wise .
+
 
 
 KPI- 
@@ -19,3 +22,4 @@ KEY:
 -- Total Revenue & avg revenue By  month
 
 
+results:it will helps to improve the performance of store to generate revenue
